@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "channel": "stable",
-  "changelog": "Frissítő gyökérverzió-észlelés javítása: a telepített Danetti verzióját olvassa, nem az API workspace verzióját.",
+  "changelog": "0.2.4: Egyetlen CMYK vektoros PDF nyomdai export, javított Utopia helyőrzők és helyi frissítés UI-teszt.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.3.zip",
-    "size": 1690997,
-    "sha256": "b4faf29cdffbd8cad384d664ca8c9f16b566e7fa6735b1cc149d1b38f0059d72"
+    "name": "danetti-price-scraper-0.2.4.zip",
+    "size": 1687916,
+    "sha256": "c6a74376cae43a9b8a277b85b7858317b0dc23b3d34613d02bcf7a9612bb777c"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.3/danetti-price-scraper-0.2.3.zip",
-  "release_commit": "9bf8cc2510c09467d29adcb3d039421a64e44869",
-  "published_at": "2026-08-17T09:24:43.807Z",
-  "signature": "KY8e+r3MQas7RGnXx0VTbLENf9RUesIqxNyKnvHPB8EEpf3CLebdg+/176rQPWcoJdoC1kU6aQX+S+UFEkPZDg=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.4/danetti-price-scraper-0.2.4.zip",
+  "release_commit": "c5b02e04408140d7f655c6e3afdd3577b4d6c7bb",
+  "published_at": "2026-08-17T09:57:29.135Z",
+  "signature": "9CFJaVftYZkWav5TPjTm8L8gyI2fI+G2txG8gQk37tYyWKkew8wwyk5Sq8VzUDgXew0qx5ILJd/KLGbR7s51CA=="
 }
