@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "channel": "stable",
-  "changelog": "Peru címke javítása és címkeszintű, állítható Utopia elválasztó-stílus.",
+  "changelog": "Állítható, márkahelyes pörkölési dátum háttér; él- és sarokméretezés; javított Brazil címkegeometria és vektoros exportvalidáció.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.6.zip",
-    "size": 1695840,
-    "sha256": "64534dc37ce9e586c37ccb44182a3832afb8f4d98b3573bbbc07d841e1d02714"
+    "name": "danetti-price-scraper-0.2.7.zip",
+    "size": 1701489,
+    "sha256": "cd5e2481515680ce924c060ba2bde5be5bf8cbd25fdfeba8963f33134a1c920e"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.6/danetti-price-scraper-0.2.6.zip",
-  "release_commit": "585fc64d043d49887f2b40aad0f0f22d81bb80fa",
-  "published_at": "2026-08-17T12:27:57.557Z",
-  "signature": "V0dC5Hl9WI/i6dnx0ywIfzh6QetiT+Wm5Hgz5HpkXx1IRXtoV9WK4aQ6gYDubOK5Q7RTbi2EaixENlSt53mxAQ=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.7/danetti-price-scraper-0.2.7.zip",
+  "release_commit": "4bef1a4ef0e989d5d2a9d4505ccb3925c885dc91",
+  "published_at": "2026-08-17T13:10:05.223Z",
+  "signature": "xDzYlkUkQR7DgkU73gZ4AYWrFk1B75gK4pvnPvEOhhqwLk2ApNyspbyXAZlQp4umCqPjDMZGjjaOadxDbYnvDw=="
 }
