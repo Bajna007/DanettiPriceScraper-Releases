@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "product": "danetti-price-scraper",
+  "version": "0.2.2",
+  "channel": "stable",
+  "changelog": "Nyomdakész PDF+CDR címkeexport, ZIP-font feltöltés, üres Utopia/Bean On sablonok és Git nélküli aláírt frissítés.",
+  "asset": {
+    "name": "danetti-price-scraper-0.2.2.zip",
+    "size": 1690655,
+    "sha256": "be167b793e0cc70a4ca5fb1f5029f388b99ed2230249f537d4ade78ceed61cc9"
+  },
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.2/danetti-price-scraper-0.2.2.zip",
+  "release_commit": "aa80cffc786ce2761310333b141057bbb1b00cb7",
+  "published_at": "2026-08-17T09:18:51.832Z",
+  "signature": "IEkR38qXsLcmXYET8m1iLMrfS9o3xjHl1k9wBBujsZtpeRNrTdajeBNeJgUvI9uW2G+XcTw50lL8zfGg0mI9CQ=="
+}
