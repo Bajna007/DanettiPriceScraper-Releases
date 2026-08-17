@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "channel": "stable",
-  "changelog": "Állítható, márkahelyes pörkölési dátum háttér; él- és sarokméretezés; javított Brazil címkegeometria és vektoros exportvalidáció.",
+  "changelog": "Javított Windows frissítési útvonalvédelem; tényleges Git nélküli telepítési regresszióteszt; állítható, márkahelyes pörkölési dátum háttér és javított Brazil címke.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.7.zip",
-    "size": 1701489,
-    "sha256": "cd5e2481515680ce924c060ba2bde5be5bf8cbd25fdfeba8963f33134a1c920e"
+    "name": "danetti-price-scraper-0.2.8.zip",
+    "size": 1702906,
+    "sha256": "7893d037b81e44ba4abb91dd8799565ab9e7d264e5734e6057b41aacb799fffa"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.7/danetti-price-scraper-0.2.7.zip",
-  "release_commit": "4bef1a4ef0e989d5d2a9d4505ccb3925c885dc91",
-  "published_at": "2026-08-17T13:10:05.223Z",
-  "signature": "xDzYlkUkQR7DgkU73gZ4AYWrFk1B75gK4pvnPvEOhhqwLk2ApNyspbyXAZlQp4umCqPjDMZGjjaOadxDbYnvDw=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.8/danetti-price-scraper-0.2.8.zip",
+  "release_commit": "05e99afeb3094c22c52b0c0fec14be56cc16fdf7",
+  "published_at": "2026-08-17T13:17:16.291Z",
+  "signature": "jMk/E40omThGmvCOzcIN52gMoMyhbEo+/WHQNPWICpgsCSyGe+2FJNhSatQe78+5QcADuLN047GTDEqQR1O3AA=="
 }
