@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "channel": "stable",
-  "changelog": "Az új Utopia címkék lábléce a referencia tipográfiáját és dobozméreteit használja; párhuzamos sablonfrissítések biztonságosak; javított Git nélküli updater és állítható pörkölési dátum háttér.",
+  "changelog": "A Git nélküli frissítő Windows parancsargumentumai javítva és regresszióteszttel védve; új Utopia lábléc referenciaazonos; állítható pörkölési dátum háttér és Brazil geometriajavítás.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.9.zip",
-    "size": 1703393,
-    "sha256": "26c17a5321bcd3d29c4b4d82711dee319695a8cdae25969ef5609792e21f7f58"
+    "name": "danetti-price-scraper-0.2.10.zip",
+    "size": 1703976,
+    "sha256": "0da677782fe6d501ba34769911cadb3b8b7059af7d6634e8b26500f07d154dda"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.9/danetti-price-scraper-0.2.9.zip",
-  "release_commit": "56a8aa819ab14699d700352956094dd48e5fb99a",
-  "published_at": "2026-08-17T13:32:14.400Z",
-  "signature": "QWiyRBD+ytTwmhiPaszii+Kt8Nnij8PnrQxjaPmAsrZSWk+aAw9u3zv3imK0aFd9HfzT2PisPKMxUscriO5hBg=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.10/danetti-price-scraper-0.2.10.zip",
+  "release_commit": "669ca522b34400537405e5f691b28d5274f9bf04",
+  "published_at": "2026-08-17T13:39:20.144Z",
+  "signature": "VoXsx7RfRibOCs7STs/kTSX21nQ/hSQoldoJ13xXvA7VFyP+CgUJUYb1kf3DeEJVWBV7clAw6AWjhhhNfpULBw=="
 }
