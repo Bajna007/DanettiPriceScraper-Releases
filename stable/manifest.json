@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "channel": "stable",
-  "changelog": "Windows frissítőindítás javítása, élő állapotkövetés és teljes Utopia/Bean On címkekatalógus.",
+  "changelog": "Windows frissítőindítás, élő állapotkövetés és PowerShell állapotfájl-kezelés javítása; teljes Utopia/Bean On címkekatalógus.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.13.zip",
-    "size": 24335095,
-    "sha256": "4f263bb4752602347daa518d249c45a5b75136fa9b7eef874dd39c8ac55fa8a3"
+    "name": "danetti-price-scraper-0.2.14.zip",
+    "size": 24335384,
+    "sha256": "9f33aed3005e61170b2ce1a411479535a2a6ad92e0abac774dcb561a2dee4c87"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.13/danetti-price-scraper-0.2.13.zip",
-  "release_commit": "d23c837411f9b004d11dfb407576ba2ccb30c065",
-  "published_at": "2026-08-18T09:55:16.601Z",
-  "signature": "flLUpN5Mrvvu7AT0LCFY3zSJqG1B1nZHig4r7kvKx6FBDJsGTl4MXVtXUMWnjx60nOSMhlbzkFlIW8ccgaRfBQ=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.14/danetti-price-scraper-0.2.14.zip",
+  "release_commit": "9dce1136ca4c35b8ca5decfd286cfa0fc4cac697",
+  "published_at": "2026-08-18T10:07:44.499Z",
+  "signature": "pfPNb0LsBuVFwvjEmtLY8ZERkUGrhp/PNzf1ni1hXDbwgMRc4K4Ablzz9v9cc3NxNx9Clr2Jf3ju8gOzp91QCw=="
 }
