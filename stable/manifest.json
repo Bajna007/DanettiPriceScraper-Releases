@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "channel": "stable",
-  "changelog": "Az uj es a korabban letrehozott Utopia ures cimkek lablece most automatikusan a referencia tipografiaja szerint jelenik meg; a hosszu minosegmegorzesi felirat nem log bele a porkolesi datum mezobe.",
+  "changelog": "Címke-katalógus: jóváhagyott fontok, sablonok és Utopia/Bean On címkék Git nélküli frissítéshez.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.11.zip",
-    "size": 1704742,
-    "sha256": "089cd62d9db3996032a80adcece90fb591acbc22b16416db60f92b8a622f17c8"
+    "name": "danetti-price-scraper-0.2.12.zip",
+    "size": 24325838,
+    "sha256": "8b768ddf0d0f4be60a4ae73f13bb891f4f01954b789f8f56866d17aea6eeb68e"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.11/danetti-price-scraper-0.2.11.zip",
-  "release_commit": "ec86b531f0b28059efec023a3070dd4884ea26b9",
-  "published_at": "2026-08-17T13:58:33.955Z",
-  "signature": "d4Mdc0GtqDcF/CQjTJVLsoBrGCbpk4jjldpetjH12bm+W9F/ckfRKdFcdF29DdRTw3Xm7u+b5uj70BSvfXAHCA=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.12/danetti-price-scraper-0.2.12.zip",
+  "release_commit": "c3df13d32290a0cebf91171a1d8274dfe54aa792",
+  "published_at": "2026-08-18T08:50:50.373Z",
+  "signature": "A/Vs4RLjuO3kPyS8JLvukz0Y/7FHR/kmKan8Fu1Rcm4KgaxksU4N//9hoJms6AvtTKmVmIBZhQWt7g3Z4TASDg=="
 }
