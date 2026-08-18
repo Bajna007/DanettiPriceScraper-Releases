@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "channel": "stable",
-  "changelog": "Címke-katalógus: jóváhagyott fontok, sablonok és Utopia/Bean On címkék Git nélküli frissítéshez.",
+  "changelog": "Windows frissítőindítás javítása, élő állapotkövetés és teljes Utopia/Bean On címkekatalógus.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.12.zip",
-    "size": 24325838,
-    "sha256": "8b768ddf0d0f4be60a4ae73f13bb891f4f01954b789f8f56866d17aea6eeb68e"
+    "name": "danetti-price-scraper-0.2.13.zip",
+    "size": 24335095,
+    "sha256": "4f263bb4752602347daa518d249c45a5b75136fa9b7eef874dd39c8ac55fa8a3"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.12/danetti-price-scraper-0.2.12.zip",
-  "release_commit": "c3df13d32290a0cebf91171a1d8274dfe54aa792",
-  "published_at": "2026-08-18T08:50:50.373Z",
-  "signature": "A/Vs4RLjuO3kPyS8JLvukz0Y/7FHR/kmKan8Fu1Rcm4KgaxksU4N//9hoJms6AvtTKmVmIBZhQWt7g3Z4TASDg=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.13/danetti-price-scraper-0.2.13.zip",
+  "release_commit": "d23c837411f9b004d11dfb407576ba2ccb30c065",
+  "published_at": "2026-08-18T09:55:16.601Z",
+  "signature": "flLUpN5Mrvvu7AT0LCFY3zSJqG1B1nZHig4r7kvKx6FBDJsGTl4MXVtXUMWnjx60nOSMhlbzkFlIW8ccgaRfBQ=="
 }
