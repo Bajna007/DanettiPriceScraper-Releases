@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.18",
+  "version": "0.2.20",
   "channel": "stable",
-  "changelog": "Referenciahű Utopia és Bean On tipográfia; új címkék is fix betűmérettel, Git nélküli frissítés",
+  "changelog": "Separator layout fix and responsive row lines.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.18.zip",
-    "size": 24450603,
-    "sha256": "a27c44fce97e96d22a6c3929a9c6825b02f3bfa1f671b6cd1f750804bf0e1280"
+    "name": "danetti-price-scraper-0.2.20.zip",
+    "size": 24451348,
+    "sha256": "f449c496938b177a586d9d112e0ec32cfb9aadeead654904e30e6e50385147ed"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.18/danetti-price-scraper-0.2.18.zip",
-  "release_commit": "f9426016b37224c5c128d02bb6b7ee883f0300ed",
-  "published_at": "2026-08-19T10:27:21.933Z",
-  "signature": "Q3zPHBfQ1YV0GnKBofIE8Q/5OSwgltxNV4oeHhyiJP9KYeraIoW1bFD1CxvLek/2L5Z5eK3hAQG36f4qeAmHAA=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.20/danetti-price-scraper-0.2.20.zip",
+  "release_commit": "20164cca09f3fbae713443d88439f99b81e612ba",
+  "published_at": "2026-08-19T11:55:32.730Z",
+  "signature": "L/GUcWHznLdh7gUVCZwslJ/et/vqVPWwvBKxQa2p4kyawgQxTYD5NaoI3gtEvmGeyXsm2iIa0GVSxWa3IIRsBA=="
 }
