@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.22",
+  "version": "0.2.23",
   "channel": "stable",
-  "changelog": "Bean On Single Origin elválasztóvonalak közvetlen, kétoldali szövegigazítása minden meglévő és új címkén.",
+  "changelog": "Teljes Uniform ExtraCondensed font; referenciahű Utopia és Bean On tipográfia, Pantone és CMYK színek; egyszerűsített vektoros nyomdai PDF.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.22.zip",
-    "size": 24477298,
-    "sha256": "120f349871952fc0dece03cd674a223683c07d6b3ee298aff9d9e2bee2d60a1e"
+    "name": "danetti-price-scraper-0.2.23.zip",
+    "size": 24518051,
+    "sha256": "99e6771e709c176b41c268bbd99f43bad161dcbf35deb1ff3abc6e56ea152dca"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.22/danetti-price-scraper-0.2.22.zip",
-  "release_commit": "0c37cbb322adff1c18c73ad5b2df3007b190ebb6",
-  "published_at": "2026-08-20T08:04:58.495Z",
-  "signature": "sBcY/rmQyBcUWKi1hRASHr0YjmLIbwrrN29klcu2B76cYI/S/XaGaTdmy7ejOKtA0Ril6wLiXOT9d2PxGFXACw=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.23/danetti-price-scraper-0.2.23.zip",
+  "release_commit": "fc4df90d0730346d950a8451b07d71c56cc335ff",
+  "published_at": "2026-08-25T09:35:07.159Z",
+  "signature": "AQPSR0dHmXeMltjXJCu0xtah1Py1toALEUhgjkA3BWjgO54lIyEMxhIvuCs5OXVpZaELAkPxL9ry7dxfSFwWDQ=="
 }
