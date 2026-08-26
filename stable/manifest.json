@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.26",
+  "version": "0.2.27",
   "channel": "stable",
-  "changelog": "Tiszta Windows telepítés frissítési javítása: a címkemotor az API és a dashboard előtt épül fel; tartalmazza a teljes Utopia és Bean On címkekatalógust, fontokat és színprofilokat.",
+  "changelog": "Referenciahelyes Utopia és Bean On címkék, MS Gothic TT 7030/8020 karaktergeometria, Peru Miraflores és La Aldea korrekció, termékkép-mockup stúdió, tiszta telepítésen is szekvenciális updater build.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.26.zip",
-    "size": 25900854,
-    "sha256": "2ad3e3099c624ee90878ef021c99a7f52e85d7d45f072b82814c9dea9c137d42"
+    "name": "danetti-price-scraper-0.2.27.zip",
+    "size": 31467695,
+    "sha256": "70cf1741d7e492763d4ce236a6950ecb54d2097695334ce00a063044f32fd7fc"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.26/danetti-price-scraper-0.2.26.zip",
-  "release_commit": "851aae8919c73e5bc24134a8a15aa9ec96d740fd",
-  "published_at": "2026-08-26T09:31:16.291Z",
-  "signature": "O3ztTrpKpeBMdIdnBMFP/mHINTeehg/0RGfFcTrp2V0uXrxRFqHbZJxFdNKiQFigRxypSehVJ9IqxltE7FCdDw=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.27/danetti-price-scraper-0.2.27.zip",
+  "release_commit": "6c6f583a059322e27c4cd83ef61815f0a1286046",
+  "published_at": "2026-08-26T15:34:13.278Z",
+  "signature": "sweLDss0Fw4Ec4Inoilg8oez3rYS06/AubMcsh/d97AaTvUFUDt+AA4DYHyicZeZ2hZCbo8XSActJnHv5+h9Aw=="
 }
