@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.23",
+  "version": "0.2.24",
   "channel": "stable",
-  "changelog": "Teljes Uniform ExtraCondensed font; referenciahű Utopia és Bean On tipográfia, Pantone és CMYK színek; egyszerűsített vektoros nyomdai PDF.",
+  "changelog": "Utopia es Bean On referenciahuseg, teljes fontkatalogus, ICC/Lab szinprofilok es nyomdai export validacio.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.23.zip",
-    "size": 24518051,
-    "sha256": "99e6771e709c176b41c268bbd99f43bad161dcbf35deb1ff3abc6e56ea152dca"
+    "name": "danetti-price-scraper-0.2.24.zip",
+    "size": 25895029,
+    "sha256": "251358898eff51d415383258707f315ef725058a340aea0ef20394e90f840450"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.23/danetti-price-scraper-0.2.23.zip",
-  "release_commit": "fc4df90d0730346d950a8451b07d71c56cc335ff",
-  "published_at": "2026-08-25T09:35:07.159Z",
-  "signature": "AQPSR0dHmXeMltjXJCu0xtah1Py1toALEUhgjkA3BWjgO54lIyEMxhIvuCs5OXVpZaELAkPxL9ry7dxfSFwWDQ=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.24/danetti-price-scraper-0.2.24.zip",
+  "release_commit": "19a144518f5672c5279b0a1622b2a3915ea4cfca",
+  "published_at": "2026-08-26T08:17:02.420Z",
+  "signature": "iIfMy2+H2rt4CxEhz73XeJjgDuXfMWoEsWZqVbscR6grL1jP9BlmtDHc8G+piKCW5T4LKcnsABM64yUF9ytAAw=="
 }
