@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.24",
+  "version": "0.2.25",
   "channel": "stable",
-  "changelog": "Utopia es Bean On referenciahuseg, teljes fontkatalogus, ICC/Lab szinprofilok es nyomdai export validacio.",
+  "changelog": "Minden javitott Utopia es Bean On cimke, lassu Windows inditasra javitott updater, tartos frissitesi logok es hitelesitett mentofrissites.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.24.zip",
-    "size": 25895029,
-    "sha256": "251358898eff51d415383258707f315ef725058a340aea0ef20394e90f840450"
+    "name": "danetti-price-scraper-0.2.25.zip",
+    "size": 25900767,
+    "sha256": "531e831926b66a69e936d812245708ac8ef04d2af40202637850e1a0952c5469"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.24/danetti-price-scraper-0.2.24.zip",
-  "release_commit": "19a144518f5672c5279b0a1622b2a3915ea4cfca",
-  "published_at": "2026-08-26T08:17:02.420Z",
-  "signature": "iIfMy2+H2rt4CxEhz73XeJjgDuXfMWoEsWZqVbscR6grL1jP9BlmtDHc8G+piKCW5T4LKcnsABM64yUF9ytAAw=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.25/danetti-price-scraper-0.2.25.zip",
+  "release_commit": "2ca274722cfd9ef66d677c59f2975705cb313bce",
+  "published_at": "2026-08-26T09:10:51.831Z",
+  "signature": "Ns3mY7rvyNG7C8MeMAMk0xE7N5eXMrJD4nluKEcTZvtHVfhrtv63vCgfV8D5gTJQTRBUC6joUp6wot/PmmGUCQ=="
 }
