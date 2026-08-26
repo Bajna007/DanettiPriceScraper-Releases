@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.28",
+  "version": "0.2.29",
   "channel": "stable",
-  "changelog": "La Aldea és La Esmeralda referenciahű címgeometria; frissített teljes címkekatalógus.",
+  "changelog": "Pontos Utopia shopkep-illesztes es fotofeny; referencia szerinti Bean On keret; teljes 25 cimkes nyomdai validacio.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.28.zip",
-    "size": 31467771,
-    "sha256": "2e8fc183c4b74328c0926bfae7161a3f3ea60236e1d34500e2eabed581755c89"
+    "name": "danetti-price-scraper-0.2.29.zip",
+    "size": 31468826,
+    "sha256": "c5bc53861778ec18bbe2f95011fced36cca50a7ab1321dd7144d0d50e49b58ab"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.28/danetti-price-scraper-0.2.28.zip",
-  "release_commit": "1b05b8be0a3f0b1f520f79071592ab90b29a0547",
-  "published_at": "2026-08-26T16:07:07.537Z",
-  "signature": "kMGwDTppG/B6I6IkmPMELTz+Gjd8GZeEXt1Uy2vCObJWAS3rSHuXIzmr338+ERAPOarqivvl9rmuFpOyekOkCw=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.29/danetti-price-scraper-0.2.29.zip",
+  "release_commit": "aa9463a4ac7af2b3a4e89d10ac3066d71d545fae",
+  "published_at": "2026-08-26T21:19:41.575Z",
+  "signature": "WA6PWrQujqMEHDg1FrBShdh5MnIRsdShBv+Ekq6Abyh4t2dxu6s++cri2Jtx5eAKX1ZPTxdHJVgmhcX6iL2OCg=="
 }
