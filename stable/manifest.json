@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.29",
+  "version": "0.2.30",
   "channel": "stable",
-  "changelog": "Pontos Utopia shopkep-illesztes es fotofeny; referencia szerinti Bean On keret; teljes 25 cimkes nyomdai validacio.",
+  "changelog": "Nyomdai javitas: minden Utopia es Bean On cimke automatikus 2.5 mm kifutoval, kizarolag process CMYK szinekkel es ISO Coated v2 output profillal exportalodik.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.29.zip",
-    "size": 31468826,
-    "sha256": "c5bc53861778ec18bbe2f95011fced36cca50a7ab1321dd7144d0d50e49b58ab"
+    "name": "danetti-price-scraper-0.2.30.zip",
+    "size": 31470389,
+    "sha256": "41b88bd8de9114f26cebc627979c4df318b31f15107d3fc28424a3f3230104c9"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.29/danetti-price-scraper-0.2.29.zip",
-  "release_commit": "aa9463a4ac7af2b3a4e89d10ac3066d71d545fae",
-  "published_at": "2026-08-26T21:19:41.575Z",
-  "signature": "WA6PWrQujqMEHDg1FrBShdh5MnIRsdShBv+Ekq6Abyh4t2dxu6s++cri2Jtx5eAKX1ZPTxdHJVgmhcX6iL2OCg=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.30/danetti-price-scraper-0.2.30.zip",
+  "release_commit": "57c1243d073df4949e1360b3ec52be70a985c5e5",
+  "published_at": "2026-08-27T08:12:21.066Z",
+  "signature": "IMBA2YJ23QS5NmiAV1b/HrJ+0o7q7iBN2nyB7YM5S2Qieg56ITiNeAFSHmYQwglWPPYHG1lFkuiBx1AYAHNdBA=="
 }
