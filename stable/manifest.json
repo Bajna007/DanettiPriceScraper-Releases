@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.31",
+  "version": "0.2.32",
   "channel": "stable",
-  "changelog": "Referenciahű ISO Coated v2 CMYK színkezelés, teljes címkeelem-validáció, frissített sablonkatalógus és magyar KIFUTÓ jelölés.",
+  "changelog": "A nyomdai PDF darabszámai Utopia és Bean On esetén is biztos távolságra kerülnek a címke kifutójától.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.31.zip",
-    "size": 31474086,
-    "sha256": "2ca3e464685c2c7be301b13fa2ae7f768107426539d5c22026343bb06d00acce"
+    "name": "danetti-price-scraper-0.2.32.zip",
+    "size": 31474625,
+    "sha256": "01349cfa766567b4328546e43f680eaf9edc44913a9a89708bef0f8481660bcb"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.31/danetti-price-scraper-0.2.31.zip",
-  "release_commit": "07b4cd9026b7dfc3a66fbd9a634dc0359be41647",
-  "published_at": "2026-08-27T10:05:19.624Z",
-  "signature": "dc5ZW1NPfIjZ3Qxaf/OhlfDECmt/asy77lEjklry8uN0qwWWKyxsunQLfzigmwEf6S1K3dCG6gkKqLJQnt6NAA=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.32/danetti-price-scraper-0.2.32.zip",
+  "release_commit": "f45f8a15045b5f9a1d1c0d58aea2f6275ca31706",
+  "published_at": "2026-08-27T10:40:03.343Z",
+  "signature": "YhqnUGV2R+C21LbHhepsBb4FuW3WUONdkhX3gPW8puoPiZBvvS6j/SgUJxfPOhbRVMzanBHZppoJB9ZtL0FTCA=="
 }
