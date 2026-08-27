@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.32",
+  "version": "0.2.33",
   "channel": "stable",
-  "changelog": "A nyomdai PDF darabszámai Utopia és Bean On esetén is biztos távolságra kerülnek a címke kifutójától.",
+  "changelog": "Gyorsabb es stabilabb launcher: build cache, atomikus allapot, egységes readiness, kiméletes leallitas es biztonsagos Docker javitas.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.32.zip",
-    "size": 31474625,
-    "sha256": "01349cfa766567b4328546e43f680eaf9edc44913a9a89708bef0f8481660bcb"
+    "name": "danetti-price-scraper-0.2.33.zip",
+    "size": 31487088,
+    "sha256": "81e3904cb822472e02ea88470e078bbd8b648bd682a819c1700e1094a8bbbb91"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.32/danetti-price-scraper-0.2.32.zip",
-  "release_commit": "f45f8a15045b5f9a1d1c0d58aea2f6275ca31706",
-  "published_at": "2026-08-27T10:40:03.343Z",
-  "signature": "YhqnUGV2R+C21LbHhepsBb4FuW3WUONdkhX3gPW8puoPiZBvvS6j/SgUJxfPOhbRVMzanBHZppoJB9ZtL0FTCA=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.33/danetti-price-scraper-0.2.33.zip",
+  "release_commit": "4b796f2ee6967b199134e2861640d971d52ed462",
+  "published_at": "2026-08-27T14:41:57.574Z",
+  "signature": "AP5nHIoL7tjXzXFrRgFOVgcigVFXZ50T1k8Q0vFTfCmjZaJCeXu+roJA+gCgp1b0HwGwxaNkPksOeM/+48vADg=="
 }
