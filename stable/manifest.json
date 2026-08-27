@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.30",
+  "version": "0.2.31",
   "channel": "stable",
-  "changelog": "Nyomdai javitas: minden Utopia es Bean On cimke automatikus 2.5 mm kifutoval, kizarolag process CMYK szinekkel es ISO Coated v2 output profillal exportalodik.",
+  "changelog": "Referenciahű ISO Coated v2 CMYK színkezelés, teljes címkeelem-validáció, frissített sablonkatalógus és magyar KIFUTÓ jelölés.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.30.zip",
-    "size": 31470389,
-    "sha256": "41b88bd8de9114f26cebc627979c4df318b31f15107d3fc28424a3f3230104c9"
+    "name": "danetti-price-scraper-0.2.31.zip",
+    "size": 31474086,
+    "sha256": "2ca3e464685c2c7be301b13fa2ae7f768107426539d5c22026343bb06d00acce"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.30/danetti-price-scraper-0.2.30.zip",
-  "release_commit": "57c1243d073df4949e1360b3ec52be70a985c5e5",
-  "published_at": "2026-08-27T08:12:21.066Z",
-  "signature": "IMBA2YJ23QS5NmiAV1b/HrJ+0o7q7iBN2nyB7YM5S2Qieg56ITiNeAFSHmYQwglWPPYHG1lFkuiBx1AYAHNdBA=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.31/danetti-price-scraper-0.2.31.zip",
+  "release_commit": "07b4cd9026b7dfc3a66fbd9a634dc0359be41647",
+  "published_at": "2026-08-27T10:05:19.624Z",
+  "signature": "dc5ZW1NPfIjZ3Qxaf/OhlfDECmt/asy77lEjklry8uN0qwWWKyxsunQLfzigmwEf6S1K3dCG6gkKqLJQnt6NAA=="
 }
