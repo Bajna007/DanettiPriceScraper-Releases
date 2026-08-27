@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.2.33",
+  "version": "0.3.0",
   "channel": "stable",
-  "changelog": "Gyorsabb es stabilabb launcher: build cache, atomikus allapot, egységes readiness, kiméletes leallitas es biztonsagos Docker javitas.",
+  "changelog": "Gyorsabb es stabilabb launcher, diagnose-first javitas, gyors leallitas, tartos portkonfiguracio es elore buildelt runtime.",
   "asset": {
-    "name": "danetti-price-scraper-0.2.33.zip",
-    "size": 31487088,
-    "sha256": "81e3904cb822472e02ea88470e078bbd8b648bd682a819c1700e1094a8bbbb91"
+    "name": "danetti-price-scraper-0.3.0.zip",
+    "size": 36695598,
+    "sha256": "d86781308fe2e959b3f5a4844705644a0992b95d5b18f1eed269e9cef36d242f"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.2.33/danetti-price-scraper-0.2.33.zip",
-  "release_commit": "4b796f2ee6967b199134e2861640d971d52ed462",
-  "published_at": "2026-08-27T14:41:57.574Z",
-  "signature": "AP5nHIoL7tjXzXFrRgFOVgcigVFXZ50T1k8Q0vFTfCmjZaJCeXu+roJA+gCgp1b0HwGwxaNkPksOeM/+48vADg=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.3.0/danetti-price-scraper-0.3.0.zip",
+  "release_commit": "df7c6b41c254bbdaf9be30513bd8a604e26f76d6",
+  "published_at": "2026-08-27T20:57:10.464Z",
+  "signature": "fHm+mhEAKJsHuGaP6LjfEO9ipz5yldznwgsDJL+DLvBXDvDeJKXrsgjFJIfZdDtfMRRBNBb9I9kRK0shNYjtDA=="
 }
