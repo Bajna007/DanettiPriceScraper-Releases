@@ -1,0 +1,21 @@
+# Local credentials and signing material
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+id_ed25519*
+
+# Downloaded release packages and local tool state
+*.zip
+*.tar.gz
+node_modules/
+.tmp/
+tmp/
+*.log
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
