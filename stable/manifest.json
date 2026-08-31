@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "channel": "stable",
-  "changelog": "Pontosított rózsaszín Utopia címkeméret és fotóalapú tasakhelyreállítás.",
+  "changelog": "Tiszta, alsó címke nélküli rózsaszín Utopia fotóalap és pontos, fotorealisztikus címkeillesztés.",
   "asset": {
-    "name": "danetti-price-scraper-0.3.3.zip",
-    "size": 35504716,
-    "sha256": "a961257562b96ab9d1850fc10878a8db5c458d6772ef0b838d7f021f8f93d2e9"
+    "name": "danetti-price-scraper-0.3.4.zip",
+    "size": 37623755,
+    "sha256": "862e27818c0173fd50ee3dcfe3527d0ab93f4694d12c566b54e32815aff7c5c2"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.3.3/danetti-price-scraper-0.3.3.zip",
-  "release_commit": "6e7eddc10e1c94bd3df6527eec6e0097f94c59ad",
-  "published_at": "2026-08-31T10:05:11.496Z",
-  "signature": "TvBwIEoPCL+X/V7qedZ7ZCTGMAfcLQ7hycDs7fTa7BIPJtYbuBDIoX9A24ftqNcQexYAaH6rK/YuJOnDjq9DCw=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.3.4/danetti-price-scraper-0.3.4.zip",
+  "release_commit": "db6d4a2dd08b7126ac700e8def25b182aa962afe",
+  "published_at": "2026-08-31T10:35:42.971Z",
+  "signature": "QZ2q2KTzl32F5Q5z9N7JOB28+CgY+odYIw1pTTkeWWCnmLkX45LYYTJvONw3IUsCcUxohDmTLZc5s3t2zFI4Aw=="
 }
