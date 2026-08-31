@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "channel": "stable",
-  "changelog": "Fotorealisztikus Utopia shop-kép illesztés és finomított fotópresetek.",
+  "changelog": "Természetes Utopia tasakillesztés, folytonos felületi fény és finomított fotópresetek.",
   "asset": {
-    "name": "danetti-price-scraper-0.3.1.zip",
-    "size": 35502602,
-    "sha256": "df1ea2c8d3edea102190acae683ef2894eef0bad16d33a3aba5af2a90fb6c499"
+    "name": "danetti-price-scraper-0.3.2.zip",
+    "size": 35503837,
+    "sha256": "f96dd10e68fb47a8f2f2793ee5e4ec6960ad5ea8477ce12097b4fbd51b6f52ff"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.3.1/danetti-price-scraper-0.3.1.zip",
-  "release_commit": "fec335ef394323dac09cb234c860cdb29a8860ab",
-  "published_at": "2026-08-31T07:28:34.201Z",
-  "signature": "6g0aXSi9gKQTg0YgCR9ZEOgbCyPClayw5NwZYh+i0nas3TB7hFpIo4tteioQK/4efeWtThyGIhVVcKID4pbLCQ=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.3.2/danetti-price-scraper-0.3.2.zip",
+  "release_commit": "91ff230a275858af80cbd82c4e308eabf5178096",
+  "published_at": "2026-08-31T08:51:51.077Z",
+  "signature": "vV+2QQ5DrHNLSkuEq641g+cVGHDxuP8g4bNwN/Yb3fUN4OP2QL7c++6P1nQXlyTF6t37LL+K2mm306er+BsCBg=="
 }
