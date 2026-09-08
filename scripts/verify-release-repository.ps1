@@ -53,8 +53,11 @@ if ($SourceRepository) {
   & git -C $sourceRoot cat-file -e "$commit`^{commit}"
   Assert-Condition ($LASTEXITCODE -eq 0) "Signed source commit is unavailable in SourceRepository."
 
-  $tagCommit = (& git -C $sourceRoot rev-parse "refs/tags/v$version`^{commit}" 2>$null | Select-Object -First 1)
-  Assert-Condition ($LASTEXITCODE -eq 0 -and [string]$tagCommit -eq $commit) "Version tag does not resolve to signed source commit."
+  # Drain the native process before inspecting its exit code. Select-Object
+  # -First can stop the pipeline before Git has exited in Windows PowerShell.
+  $tagOutput = @(& git -C $sourceRoot rev-parse "refs/tags/v$version`^{commit}" 2>$null)
+  $tagExitCode = $LASTEXITCODE
+  Assert-Condition ($tagExitCode -eq 0 -and $tagOutput.Count -eq 1 -and [string]$tagOutput[0] -eq $commit) "Version tag does not resolve to signed source commit."
 
   $packageJsonText = (& git -C $sourceRoot show "$commit`:package.json") -join "`n"
   Assert-Condition ($LASTEXITCODE -eq 0) "package.json is unavailable at signed source commit."
