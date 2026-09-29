@@ -1,16 +1,23 @@
-# Release repository rules
+# Danetti release distribution
 
-## Execution contract
+This public repository contains signed manifests and repair/verification tooling,
+not application source, credentials, signing keys or private runtime/customer data.
+The private `Bajna007/DanettiPriceScraper` publisher
+`scripts/updates/publish-release.ps1` is the release authority.
 
-- Finish the authorized result, reuse existing approval and honor narrower user scope. Resolve routine details; identify the exact rule when a real blocker needs user input.
-- Read relevant context only. Keep a compact checkpoint for long work; historical documents are evidence rather than current instructions.
-- Keep model/provider settings user-selected. Optional shared `instructions/models/gpt-6-astra.md` tunes Astra; this repository remains usable with other models.
-- Use focused repository checks and stop retesting when sufficient evidence passes. Keep Actions disabled; distinguish local proof, enforced merge rules and actual delivery.
+Never hand-edit signed manifests, reconstruct a signer here or replace/delete
+release assets without an explicitly requested release operation. Verify tag,
+source commit, version, byte size, SHA-256 and Ed25519 signature through the
+existing process. A Git push is neither a signed release nor deployment.
 
-- This public repository contains signed Danetti release manifests and repair tooling only. Keep application source, credentials, private signing keys, customer data, database exports, and local environment files out of it.
-- Treat GitHub `main` as the synchronization authority. Fetch before comparing; update a clean workspace by fast-forward only. Never reset, clean, force-push, or overwrite an active/dirty workspace.
-- Do not hand-edit a signed manifest or replace a release asset. Publish through the validated release process in the private source repository, then verify the tag, exact source commit, version, byte size, SHA-256 digest, and Ed25519 signature.
-- Generic Caveman, Impeccable, and Emil skills are provided by the user's global agent layer. Do not vendor copies into this release repository; add a repository skill only for a genuinely release-specific workflow.
-- A Git push is not a release or a deployment. Do not create, replace, or delete GitHub release assets unless the user explicitly requests that release operation.
-- Source authority: private `Bajna007/DanettiPriceScraper`. Its canonical publisher is `scripts/updates/publish-release.ps1`; this repository never substitutes for that workflow.
-- Before proposing any release-repository commit, run `powershell -NoProfile -ExecutionPolicy Bypass -File scripts/verify-release-repository.ps1`. When the source checkout is available, also pass `-SourceRepository <path>` to prove source commit, version tag, package version, and repair-script provenance.
+For changed release metadata/tooling or actual publication use
+`scripts/verify-release-repository.ps1`; supply `-SourceRepository <path>` when
+available to verify source/version/tag/repair-script provenance. Plain instructions
+need diff/reference review, not a new app build or asset publication. Missing
+required release proof is not a pass; do not repeat unchanged checks unnecessarily.
+
+Fetch before comparing refs; preserve active/dirty work and fast-forward only a
+clean expected checkout. Stage intended paths; no destructive reset/clean,
+force-push or silent switching. Keep Actions disabled. Generic model/style/UI
+skills add no value to this distribution contract and must not be copied here.
+Report actual changes/checks and publication state without a mandatory audit template.
