@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "channel": "stable",
-  "changelog": "EPR negyedéves előkészítés: IMAP mailbox-beállítások és levélindex, hivatalos ChatGPT OAuth, ellenőrizhető system prompt és számlakinyerés, anyagszabályok, bizonylatellenőrzés, változatlan lezárás és audit Excel-export.",
+  "changelog": "EPR: operátor által választott számla- vagy teljesítési dátum alapján az ismert beszerzések automatikus, naplózott számítása; kivételkezelés, vevőazonosítóval védett csoportosítás, stornóellenőrzés, hozzárendelési teendőlista és archívumállapot.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.0.zip",
-    "size": 38029213,
-    "sha256": "7269094c5bf4320e8bc03d128b35de8c3b0dc0b6c6bfb44802b8efc2133bf5d7"
+    "name": "danetti-price-scraper-0.4.2.zip",
+    "size": 38054447,
+    "sha256": "2892b052906ff8505ee0f3a7925cb923c6c1aeb92ea48e70d0b6840601c94951"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.0/danetti-price-scraper-0.4.0.zip",
-  "release_commit": "55ea6725fe1cafd6854f04ab0855328b2937a388",
-  "published_at": "2026-10-01T10:47:10.704Z",
-  "signature": "EPXWIrsaDafILoX45zinx3JLe6gZaedqmVK7y4gVzZbJfm/1RDC9llv9LwEUireHPnpwlt/aPRBAEASnPatACA=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.2/danetti-price-scraper-0.4.2.zip",
+  "release_commit": "2f9838f180728640d7928600e71cbc6d2b3003b7",
+  "published_at": "2026-10-01T11:21:26.709Z",
+  "signature": "QCo1qsJzDKhMxmBZXsyisVKfhF1En1dq/GncqS8xdnhSKapmSDwZR6DHwZDcx528BlcRruiuZaQj6onb2KJmDg=="
 }
