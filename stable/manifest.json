@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.10",
+  "version": "0.4.12",
   "channel": "stable",
-  "changelog": "Egységes szövegszínű elválasztók és QR-kódok, függőlegesen középre rendezett alsó szövegblokkok és kiszerelések, kissé nagyobb QR. Ellenőrzött Utopia terméklinkek automatikus hozzárendelése a meglévő és másik gépen mentett címkékhez; a saját terméknevek, betűtípusok, színek és korábbi verziók megőrzésével. Közvetlen termékoldal-QR, lejárati idő és külső QR-szolgáltatás nélkül.",
+  "changelog": "Átláthatóbb, csoportosított bal szerkesztősáv Bean On és Utopia címkékhez; automatikus mezőmagasság. Bean On egységes 7 pt alapméret és közös betűméret-állítás az adatokhoz és az alsó szövegekhez. A Ricca különleges összetételi formázása és a meglévő Utopia címkék változatlanok. Új címkéknél üres terméknév-, kávéadat- és ízjegymezők. A frissítés a másik gépen mentett saját Bean On címkékre is lefut, az adatok és a korábbi verziók megőrzésével.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.10.zip",
-    "size": 38346746,
-    "sha256": "621c3d6cf53981a278794dccdf2f32c6cf571adf987dcf71d2accbc5a46828fc"
+    "name": "danetti-price-scraper-0.4.12.zip",
+    "size": 38361378,
+    "sha256": "52c22f763306d1c59ec0b806b907b77cbf15743d28c256836784659475c96dc2"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.10/danetti-price-scraper-0.4.10.zip",
-  "release_commit": "0a719844e9c2119f1c353ba9d6ca01895257bae7",
-  "published_at": "2026-10-07T11:37:31.843Z",
-  "signature": "ZvXDE+M7NIGjY0FOHkNrfLckV1IXO3g+Nu2rxdGljh3MVpZjCCrqsb9GLuHzf4td08oIm1cbT8+GdxWNkbQ4DQ=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.12/danetti-price-scraper-0.4.12.zip",
+  "release_commit": "0ab2970dafd1e9d9a595cff546aacf149a71e07e",
+  "published_at": "2026-10-07T12:39:33.834Z",
+  "signature": "ZTGhGD/oP7lV4i6mXnHYZ7LhMSabb9TJdU6QF9QEOPInjZaWNsYJFkrX0JyeC5C/WzXg8j4JKWaOJtpM9TNzDw=="
 }
