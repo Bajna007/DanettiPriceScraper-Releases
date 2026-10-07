@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "channel": "stable",
-  "changelog": "Bean On: egységes vonal- és QR-színek, minden helyben mentett címkére kényszerített új alsó elrendezés régi dátummező nélkül. A blend termékneve és összetétele a saját boxában függőlegesen középre igazodik, saját betűtípus betöltése és sortörés után is. Saját szövegek, névfontok, színek és Utopia címkék megőrzése.",
+  "changelog": "Egységes szövegszínű elválasztók és QR-kódok, függőlegesen középre rendezett alsó szövegblokkok és kiszerelések, kissé nagyobb QR. Ellenőrzött Utopia terméklinkek automatikus hozzárendelése a meglévő és másik gépen mentett címkékhez; a saját terméknevek, betűtípusok, színek és korábbi verziók megőrzésével. Közvetlen termékoldal-QR, lejárati idő és külső QR-szolgáltatás nélkül.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.9.zip",
-    "size": 38316204,
-    "sha256": "d2bc170a5996b3a9336bdc85cf540f09331aa78b0c80ee0d60eac19acbea3c5d"
+    "name": "danetti-price-scraper-0.4.10.zip",
+    "size": 38346746,
+    "sha256": "621c3d6cf53981a278794dccdf2f32c6cf571adf987dcf71d2accbc5a46828fc"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.9/danetti-price-scraper-0.4.9.zip",
-  "release_commit": "d1d4c7afbd809c3dbf42985d4c597b8973460ee7",
-  "published_at": "2026-10-07T11:04:24.392Z",
-  "signature": "cZRD6SEROKV8+ovf64uOlRC3WjKofY5yxpIY4x2VPrjuwxR1k4iwWIZpIn2qrtk8tBdeEqA8G9THMOEHKTHOBg=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.10/danetti-price-scraper-0.4.10.zip",
+  "release_commit": "0a719844e9c2119f1c353ba9d6ca01895257bae7",
+  "published_at": "2026-10-07T11:37:31.843Z",
+  "signature": "ZvXDE+M7NIGjY0FOHkNrfLckV1IXO3g+Nu2rxdGljh3MVpZjCCrqsb9GLuHzf4td08oIm1cbT8+GdxWNkbQ4DQ=="
 }
