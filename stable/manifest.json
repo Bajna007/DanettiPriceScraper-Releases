@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "channel": "stable",
-  "changelog": "Egységes kávéadat- és ízjegy-tipográfia; egyben kijelölhető, mozgatható és méretezhető magyar–angol ízjegydoboz; alapból vesszők és kikapcsolt ízjegyvonalak; QR és ízjegyvonalak közös szeparátorszínnel; fedő fehér pörkölési mező. A meglévő helyi címkéket frissíti, adatok és előzmények megőrzésével, vektoros CMYK exporttal.",
+  "changelog": "Eredeti címkenevek, betűtípusok és szövegszínek helyreállítása saját előzményekből. Fehér kiszerelésjelölők, átláthatóbb szerkesztőpult, összecsukható oldalpanelek és teljes címkenézet. A gépenként mentett saját címkék és tartalmak megmaradnak.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.6.zip",
-    "size": 38283595,
-    "sha256": "e2b20e19095ac7c1bf24ac1ab6baac1634c3b6cf7f4f6f1022ba1940ed02213c"
+    "name": "danetti-price-scraper-0.4.7.zip",
+    "size": 38294980,
+    "sha256": "7d794f05fd2e77f28a6590e9d2ba2708e98588ba469cdf1f84f1d21b8ec14258"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.6/danetti-price-scraper-0.4.6.zip",
-  "release_commit": "9c2af0d9769d8bc63b49645a7a99d60a19b145e0",
-  "published_at": "2026-10-07T09:33:08.048Z",
-  "signature": "XPyqRIlAAev51QtP1uCNmKhYNjQWA0ARK4JTh9zQvwWq6KJI/OBs1lMZkdHfLAu4x1xojS87E7tv0PLDhDFiCw=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.7/danetti-price-scraper-0.4.7.zip",
+  "release_commit": "8881b0e65cfcd6f572eabfbcabaa9519fba1d007",
+  "published_at": "2026-10-07T10:25:02.226Z",
+  "signature": "wTn2DDTrAEQWNn5OxJwlV2oLzbxgBsIJxM0uGJY5hab9vl2wtU70QfqVRwESQIur53/wheZEqcU+xu2CuzIpAg=="
 }
