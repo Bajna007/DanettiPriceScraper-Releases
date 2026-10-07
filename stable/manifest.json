@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "channel": "stable",
-  "changelog": "EPR: operátor által választott számla- vagy teljesítési dátum alapján az ismert beszerzések automatikus, naplózott számítása; kivételkezelés, vevőazonosítóval védett csoportosítás, stornóellenőrzés, hozzárendelési teendőlista és archívumállapot.",
+  "changelog": "A jovahagyott K06-B cimkeelrendezes, szerkesztheto hatter es sortores, kapcsolhato izjegy-szeparatorok, alapertelmezett fekete 250g jeloles, biztonsagos helyi cimkefrissites es termekoldal-linkbol vektoros QR-kod.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.2.zip",
-    "size": 38054447,
-    "sha256": "2892b052906ff8505ee0f3a7925cb923c6c1aeb92ea48e70d0b6840601c94951"
+    "name": "danetti-price-scraper-0.4.4.zip",
+    "size": 38242140,
+    "sha256": "93357194662155eac7c9ee702b8f795c654d27b8683dc1c8188fc83e3b4c9310"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.2/danetti-price-scraper-0.4.2.zip",
-  "release_commit": "2f9838f180728640d7928600e71cbc6d2b3003b7",
-  "published_at": "2026-10-01T11:21:26.709Z",
-  "signature": "QCo1qsJzDKhMxmBZXsyisVKfhF1En1dq/GncqS8xdnhSKapmSDwZR6DHwZDcx528BlcRruiuZaQj6onb2KJmDg=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.4/danetti-price-scraper-0.4.4.zip",
+  "release_commit": "bfb522520d6a7a37ea0c2f7569816af3a582dcba",
+  "published_at": "2026-10-07T08:41:06.115Z",
+  "signature": "SjzhPIwL6A4uv3o5AlH48xWO+i1nXKQMzU0iVYk6nmXlpPfRukN2883gTWaicwsSBMDzQv7sUTPnc7m5SgiDDQ=="
 }
