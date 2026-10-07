@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.12",
+  "version": "0.4.13",
   "channel": "stable",
-  "changelog": "Átláthatóbb, csoportosított bal szerkesztősáv Bean On és Utopia címkékhez; automatikus mezőmagasság. Bean On egységes 7 pt alapméret és közös betűméret-állítás az adatokhoz és az alsó szövegekhez. A Ricca különleges összetételi formázása és a meglévő Utopia címkék változatlanok. Új címkéknél üres terméknév-, kávéadat- és ízjegymezők. A frissítés a másik gépen mentett saját Bean On címkékre is lefut, az adatok és a korábbi verziók megőrzésével.",
+  "changelog": "Honduras Las Moras Honey: a véletlenül fehérré vált háttér visszaállítása a 64. mentett verzió és a referencia pontos #69FC0D színére, eredeti nyomdai színbeállítással. Egyszeri, célzott javítás a másik gépen mentett current és legacy címkékre is; szövegek, QR-linkek, betűk, rétegek és korábbi verziók megőrzésével. A saját nem fehér színek és a későbbi kézi színmódosítások megmaradnak.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.12.zip",
-    "size": 38361378,
-    "sha256": "52c22f763306d1c59ec0b806b907b77cbf15743d28c256836784659475c96dc2"
+    "name": "danetti-price-scraper-0.4.13.zip",
+    "size": 38365952,
+    "sha256": "808f9e67ae09c121b419dd3b288a718ef41e557fd149d60c4c858ed9d06392e0"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.12/danetti-price-scraper-0.4.12.zip",
-  "release_commit": "0ab2970dafd1e9d9a595cff546aacf149a71e07e",
-  "published_at": "2026-10-07T12:39:33.834Z",
-  "signature": "ZTGhGD/oP7lV4i6mXnHYZ7LhMSabb9TJdU6QF9QEOPInjZaWNsYJFkrX0JyeC5C/WzXg8j4JKWaOJtpM9TNzDw=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.13/danetti-price-scraper-0.4.13.zip",
+  "release_commit": "f3debd302c1369a6635445a35fa511b9cd702356",
+  "published_at": "2026-10-07T13:10:04.921Z",
+  "signature": "fba6pmjAGhmH2BjFY6eG0+xakCVbmvZ1sAppxAyyThQv4yWvg2oTDeuKh+hxoPU6X9toOMlDmD3LZlgirK8HDw=="
 }
