@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.7",
+  "version": "0.4.9",
   "channel": "stable",
-  "changelog": "Eredeti címkenevek, betűtípusok és szövegszínek helyreállítása saját előzményekből. Fehér kiszerelésjelölők, átláthatóbb szerkesztőpult, összecsukható oldalpanelek és teljes címkenézet. A gépenként mentett saját címkék és tartalmak megmaradnak.",
+  "changelog": "Bean On: egységes vonal- és QR-színek, minden helyben mentett címkére kényszerített új alsó elrendezés régi dátummező nélkül. A blend termékneve és összetétele a saját boxában függőlegesen középre igazodik, saját betűtípus betöltése és sortörés után is. Saját szövegek, névfontok, színek és Utopia címkék megőrzése.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.7.zip",
-    "size": 38294980,
-    "sha256": "7d794f05fd2e77f28a6590e9d2ba2708e98588ba469cdf1f84f1d21b8ec14258"
+    "name": "danetti-price-scraper-0.4.9.zip",
+    "size": 38316204,
+    "sha256": "d2bc170a5996b3a9336bdc85cf540f09331aa78b0c80ee0d60eac19acbea3c5d"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.7/danetti-price-scraper-0.4.7.zip",
-  "release_commit": "8881b0e65cfcd6f572eabfbcabaa9519fba1d007",
-  "published_at": "2026-10-07T10:25:02.226Z",
-  "signature": "wTn2DDTrAEQWNn5OxJwlV2oLzbxgBsIJxM0uGJY5hab9vl2wtU70QfqVRwESQIur53/wheZEqcU+xu2CuzIpAg=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.9/danetti-price-scraper-0.4.9.zip",
+  "release_commit": "d1d4c7afbd809c3dbf42985d4c597b8973460ee7",
+  "published_at": "2026-10-07T11:04:24.392Z",
+  "signature": "cZRD6SEROKV8+ovf64uOlRC3WjKofY5yxpIY4x2VPrjuwxR1k4iwWIZpIn2qrtk8tBdeEqA8G9THMOEHKTHOBg=="
 }
