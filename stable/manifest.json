@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "channel": "stable",
-  "changelog": "A jovahagyott K06-B cimkeelrendezes, szerkesztheto hatter es sortores, kapcsolhato izjegy-szeparatorok, alapertelmezett fekete 250g jeloles, biztonsagos helyi cimkefrissites es termekoldal-linkbol vektoros QR-kod.",
+  "changelog": "Cimkek javitasa a jovahagyott referenciara: csomagolas tetejere hivatkozo minosegmegorzesi szoveg, azonos forgalmazoi sorok es tipografia, datumdoboz nelkul, angol izjegyek potlasa, utopiacoffee.hu helyorzo QR es karakterig igazodo teljes izjegyvonal. Uj es minden telepitett Bean On cimke, beleertve sajat masik gepes cimkeket es blendek also reszet.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.4.zip",
-    "size": 38242140,
-    "sha256": "93357194662155eac7c9ee702b8f795c654d27b8683dc1c8188fc83e3b4c9310"
+    "name": "danetti-price-scraper-0.4.5.zip",
+    "size": 38253538,
+    "sha256": "1e1968af12e179127b68a7abdb4cc796e768bfb38ad79ec5c61d956288ecddee"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.4/danetti-price-scraper-0.4.4.zip",
-  "release_commit": "bfb522520d6a7a37ea0c2f7569816af3a582dcba",
-  "published_at": "2026-10-07T08:41:06.115Z",
-  "signature": "SjzhPIwL6A4uv3o5AlH48xWO+i1nXKQMzU0iVYk6nmXlpPfRukN2883gTWaicwsSBMDzQv7sUTPnc7m5SgiDDQ=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.5/danetti-price-scraper-0.4.5.zip",
+  "release_commit": "f934bbe134e13b8d8db03db1a0a93a461b8e924d",
+  "published_at": "2026-10-07T08:58:10.355Z",
+  "signature": "uvf/L+9t6I8apuKvVcgH5DP6C1tZM8nL/UXAOQbgDvnXzmibnCFX2rfJApUwMlquscikmuckTC4vc57E2TpPCA=="
 }
