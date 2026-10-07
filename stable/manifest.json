@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.13",
+  "version": "0.4.14",
   "channel": "stable",
-  "changelog": "Honduras Las Moras Honey: a véletlenül fehérré vált háttér visszaállítása a 64. mentett verzió és a referencia pontos #69FC0D színére, eredeti nyomdai színbeállítással. Egyszeri, célzott javítás a másik gépen mentett current és legacy címkékre is; szövegek, QR-linkek, betűk, rétegek és korábbi verziók megőrzésével. A saját nem fehér színek és a későbbi kézi színmódosítások megmaradnak.",
+  "changelog": "Bean On és Utopia címketár: az előnézetek első megjelenése már a saját, betöltött betűtípusokkal történik; közös fontgyorsítótár, stabil mobilos kártyaméret és újrapróbálható fontbetöltés.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.13.zip",
-    "size": 38365952,
-    "sha256": "808f9e67ae09c121b419dd3b288a718ef41e557fd149d60c4c858ed9d06392e0"
+    "name": "danetti-price-scraper-0.4.14.zip",
+    "size": 38372563,
+    "sha256": "13434f76a6065d71323ca258569c16becaca90dc863e0317ec61401a36b1f8b8"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.13/danetti-price-scraper-0.4.13.zip",
-  "release_commit": "f3debd302c1369a6635445a35fa511b9cd702356",
-  "published_at": "2026-10-07T13:10:04.921Z",
-  "signature": "fba6pmjAGhmH2BjFY6eG0+xakCVbmvZ1sAppxAyyThQv4yWvg2oTDeuKh+hxoPU6X9toOMlDmD3LZlgirK8HDw=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.14/danetti-price-scraper-0.4.14.zip",
+  "release_commit": "fc2342b48a8e2717fff82a8a37c46f0af7e8ec58",
+  "published_at": "2026-10-07T15:51:28.744Z",
+  "signature": "AkcNlCIaPxmODe0xZZrVH6CA0Ow6XHT/309NoOWdXHLNoqJatq3QEp0pRTY87kXhV6e4pqz6Syqz9sxXJjPADQ=="
 }
