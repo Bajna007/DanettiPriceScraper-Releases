@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.14",
+  "version": "0.4.15",
   "channel": "stable",
-  "changelog": "Bean On és Utopia címketár: az előnézetek első megjelenése már a saját, betöltött betűtípusokkal történik; közös fontgyorsítótár, stabil mobilos kártyaméret és újrapróbálható fontbetöltés.",
+  "changelog": "Bean On címkék felső függőleges szeparátorának hézagmentes illesztése. Meglévő saját címkék és függő rendelések automatikus frissítése minden frissített gépen; új címkék javított geometriával.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.14.zip",
-    "size": 38372563,
-    "sha256": "13434f76a6065d71323ca258569c16becaca90dc863e0317ec61401a36b1f8b8"
+    "name": "danetti-price-scraper-0.4.15.zip",
+    "size": 38375808,
+    "sha256": "da13b941831af613a4a14671561f2d18585810dddfeb58bc15d9bd9d958cf24f"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.14/danetti-price-scraper-0.4.14.zip",
-  "release_commit": "fc2342b48a8e2717fff82a8a37c46f0af7e8ec58",
-  "published_at": "2026-10-07T15:51:28.744Z",
-  "signature": "AkcNlCIaPxmODe0xZZrVH6CA0Ow6XHT/309NoOWdXHLNoqJatq3QEp0pRTY87kXhV6e4pqz6Syqz9sxXJjPADQ=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.15/danetti-price-scraper-0.4.15.zip",
+  "release_commit": "3766cb3916cc88a1b5cf4ba7db5575b409b8a7e1",
+  "published_at": "2026-10-08T07:55:00.721Z",
+  "signature": "v3ihKqcExJeKA0YEhOYUQscdeL0Gtxv3HyqgxQG4f9bP3d8bwJGWbe5dYsGVsSoVhDFZL+8m2svTEJTeEtCHDg=="
 }
