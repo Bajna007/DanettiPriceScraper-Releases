@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.4.15",
+  "version": "0.5.0",
   "channel": "stable",
-  "changelog": "Bean On címkék felső függőleges szeparátorának hézagmentes illesztése. Meglévő saját címkék és függő rendelések automatikus frissítése minden frissített gépen; új címkék javított geometriával.",
+  "changelog": "Új áttekintés, finomított címkeszerkesztők, egyedi méretű címkék és vegyes méretű rendelések, dupla cikkszámok LF/DVG kezelése, gyorsabb és teljesebb Windows indítás-javítás-leállítás.",
   "asset": {
-    "name": "danetti-price-scraper-0.4.15.zip",
-    "size": 38375808,
-    "sha256": "da13b941831af613a4a14671561f2d18585810dddfeb58bc15d9bd9d958cf24f"
+    "name": "danetti-price-scraper-0.5.0.zip",
+    "size": 38636976,
+    "sha256": "0165d2d815f2c065231099f36e8946482009277e85df93297654cce802edb2d6"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.4.15/danetti-price-scraper-0.4.15.zip",
-  "release_commit": "3766cb3916cc88a1b5cf4ba7db5575b409b8a7e1",
-  "published_at": "2026-10-08T07:55:00.721Z",
-  "signature": "v3ihKqcExJeKA0YEhOYUQscdeL0Gtxv3HyqgxQG4f9bP3d8bwJGWbe5dYsGVsSoVhDFZL+8m2svTEJTeEtCHDg=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.5.0/danetti-price-scraper-0.5.0.zip",
+  "release_commit": "caea44f92355320947fa19727077318dde8b2eeb",
+  "published_at": "2026-10-11T13:57:30.542Z",
+  "signature": "c1KJpxqK8k/xzR5oWaJwpMB9gVEfjZcMvKKH1X+XOoqUL+oMy+UBcDOanrKu7mh4YlBv/oisrttltAIPBolnBA=="
 }
