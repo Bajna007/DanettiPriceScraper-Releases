@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "channel": "stable",
-  "changelog": "Új áttekintés, finomított címkeszerkesztők, egyedi méretű címkék és vegyes méretű rendelések, dupla cikkszámok LF/DVG kezelése, gyorsabb és teljesebb Windows indítás-javítás-leállítás.",
+  "changelog": "LF/DVG operator exchange-rate and VAT editors removed with responsive layout. Faster cold startup with concurrent local profile preparation, auto-launch race verification and deferred Docker diagnostics.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.0.zip",
-    "size": 38636976,
-    "sha256": "0165d2d815f2c065231099f36e8946482009277e85df93297654cce802edb2d6"
+    "name": "danetti-price-scraper-0.5.1.zip",
+    "size": 38633780,
+    "sha256": "501c8c572d02de90f5c8fcc84aa7016829f887f509b7ff336532c7f6c7137b65"
   },
-  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.5.0/danetti-price-scraper-0.5.0.zip",
-  "release_commit": "caea44f92355320947fa19727077318dde8b2eeb",
-  "published_at": "2026-10-11T13:57:30.542Z",
-  "signature": "c1KJpxqK8k/xzR5oWaJwpMB9gVEfjZcMvKKH1X+XOoqUL+oMy+UBcDOanrKu7mh4YlBv/oisrttltAIPBolnBA=="
+  "package_url": "https://github.com/Bajna007/DanettiPriceScraper-Releases/releases/download/v0.5.1/danetti-price-scraper-0.5.1.zip",
+  "release_commit": "36d39dc0b880e038ea9330a7f6048761cf3bc56d",
+  "published_at": "2026-10-11T17:43:12.568Z",
+  "signature": "+9nAgwhXocO7nLhUU+F3LFzz1shk2b8DhW1WXJXn9Gfe8Xbb4+2i+WWRcHmmH+yVayvQmXsuzvsUrousA/KXBA=="
 }
