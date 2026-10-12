@@ -1,0 +1,17 @@
+{
+  "schema_version": "2.0.0",
+  "product": "danetti-price-scraper",
+  "version": "0.5.3",
+  "channel": "stable",
+  "distribution": "github_git",
+  "changelog": "Beszállítói árváltozások visszamenőleges felismerése és kulcs nélküli GitHub-frissítés.",
+  "asset": {
+    "name": "danetti-price-scraper-0.5.3.zip",
+    "size": 38751076,
+    "sha256": "0343bd265ad3476a83bac29e44fc0ca4f2c497c00ca9f9d48b5bf3bce38c07f8"
+  },
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/be560387cc5c7ebf1c04b60eb1b86636be47861f/packages/v0.5.3/danetti-price-scraper-0.5.3.zip",
+  "release_commit": "99e8eb99b2d5ff54d5207c7dde9a7d36ed08ee52",
+  "artifact_commit": "be560387cc5c7ebf1c04b60eb1b86636be47861f",
+  "published_at": "2026-10-12T08:39:41.238Z"
+}
