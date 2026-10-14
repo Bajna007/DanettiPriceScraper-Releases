@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "Folyamatos táblázatkezelés, oszloprendezés, választható CSV és A4/A3 PDF mindkét listán, gyors árváltozások, látható EPR és pixelpontos címke-előnézetek.",
+  "changelog": "A 0.5.5 teljes táblázat-, CSV/PDF-, fejléc- és címke-előnézet fejlesztése, valamint GitHub API-korláttól független frissítésellenőrzés.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.5.zip",
-    "size": 38840152,
-    "sha256": "b9621177daaded48d8b7795b8afa03ae680e7f22a9ee2bf78fe9f92ad3b48e5a"
+    "name": "danetti-price-scraper-0.5.6.zip",
+    "size": 38841920,
+    "sha256": "6dfb15fdc5978058923922b567d593b34708ca1fd32e3eb39c1d121fb4b1d589"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/7b378636f84518815a947fbe21f351837154afe9/packages/v0.5.5/danetti-price-scraper-0.5.5.zip",
-  "release_commit": "1167b414d0c28dcf2f10c8a31190343be1ea4c1f",
-  "artifact_commit": "7b378636f84518815a947fbe21f351837154afe9",
-  "published_at": "2026-10-14T08:35:49.468Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/cb6f2c85e2773203d4ffba82d4ed6e9643aaa446/packages/v0.5.6/danetti-price-scraper-0.5.6.zip",
+  "release_commit": "d0bb779314dfee7d34e41a6d0a8286113d284621",
+  "artifact_commit": "cb6f2c85e2773203d4ffba82d4ed6e9643aaa446",
+  "published_at": "2026-10-14T08:47:09.807Z"
 }

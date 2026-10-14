@@ -7,7 +7,7 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 $repository = "Bajna007/DanettiPriceScraper-Releases"
-$manifestUrl = "https://api.github.com/repos/$repository/contents/stable/manifest-git.json?ref=main"
+$manifestUrl = "https://raw.githubusercontent.com/$repository/main/stable/manifest-git.json"
 $publicKey = "b1lkLdDw9CaJ+62oHEcGAmQgw9so6E+nxiyuCWkJUp4="
 $stage = Join-Path ([System.IO.Path]::GetTempPath()) ("danetti-git-update-" + [guid]::NewGuid().ToString("N"))
 
