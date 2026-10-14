@@ -1,7 +1,7 @@
 import { createPublicKey, verify } from "node:crypto";
 
 export const RELEASE_REPOSITORY = "Bajna007/DanettiPriceScraper-Releases";
-export const GIT_MANIFEST_URL = `https://api.github.com/repos/${RELEASE_REPOSITORY}/contents/stable/manifest-git.json?ref=main`;
+export const GIT_MANIFEST_URL = `https://raw.githubusercontent.com/${RELEASE_REPOSITORY}/main/stable/manifest-git.json`;
 export const LEGACY_PUBLIC_KEY = "b1lkLdDw9CaJ+62oHEcGAmQgw9so6E+nxiyuCWkJUp4=";
 
 export function gitPackageUrl(repository, artifactCommit, version) {
