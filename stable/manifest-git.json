@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "Windows indito javitas: Codextol fuggetlen hatterfutas, elakadt inditas helyreallitasa es Docker Desktop inditasi tartalekmegoldas.",
+  "changelog": "Folyamatos táblázatkezelés, oszloprendezés, választható CSV és A4/A3 PDF mindkét listán, gyors árváltozások, látható EPR és pixelpontos címke-előnézetek.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.4.zip",
-    "size": 38758087,
-    "sha256": "cf024e6c245a6778ba87ef0deb2f0b6e49a67b8dc1d0be7fbfb787c71479a97e"
+    "name": "danetti-price-scraper-0.5.5.zip",
+    "size": 38840152,
+    "sha256": "b9621177daaded48d8b7795b8afa03ae680e7f22a9ee2bf78fe9f92ad3b48e5a"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/49b1d03b3a85bba076d6a658ca899b3c405119ab/packages/v0.5.4/danetti-price-scraper-0.5.4.zip",
-  "release_commit": "2e7ffaf379422b170fc4f93a2c6931ea90163341",
-  "artifact_commit": "49b1d03b3a85bba076d6a658ca899b3c405119ab",
-  "published_at": "2026-10-13T08:19:00.898Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/7b378636f84518815a947fbe21f351837154afe9/packages/v0.5.5/danetti-price-scraper-0.5.5.zip",
+  "release_commit": "1167b414d0c28dcf2f10c8a31190343be1ea4c1f",
+  "artifact_commit": "7b378636f84518815a947fbe21f351837154afe9",
+  "published_at": "2026-10-14T08:35:49.468Z"
 }
