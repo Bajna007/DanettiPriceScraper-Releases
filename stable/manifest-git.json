@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "Teljes többsoros címkekijelölés, stabil DVG-ábralisták, választható fix profit, nyitott árfolyampanel és minden táblázatban egységes balra igazítás.",
+  "changelog": "Címkevonalak javítása; látható termékszűrők, árszámítás és import/export; kizárólag beszállítói árak az LF/DVG eredménytáblákban.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.8.zip",
-    "size": 38872636,
-    "sha256": "34573161c01e05b598968ca843d76de1dfdf27d9a3c34cbb2584d58319552af5"
+    "name": "danetti-price-scraper-0.5.9.zip",
+    "size": 38883544,
+    "sha256": "58a3cc7c9117032b3bdad2301ced5b3aaff193a12d3ad24338bb212314e44766"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/0b7314e3ea01b1ab453da7ab84919495d3df49fb/packages/v0.5.8/danetti-price-scraper-0.5.8.zip",
-  "release_commit": "6aa72b19e8bc117c3b9600604a11cfb5e691f1f5",
-  "artifact_commit": "0b7314e3ea01b1ab453da7ab84919495d3df49fb",
-  "published_at": "2026-10-15T18:13:39.966Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/e5b5fa6e71ef3cbbaf6aa0e8f5b04b9f8da5c921/packages/v0.5.9/danetti-price-scraper-0.5.9.zip",
+  "release_commit": "d6d933afc18bb708fcc2e74f0fa04b6a52afba7a",
+  "artifact_commit": "e5b5fa6e71ef3cbbaf6aa0e8f5b04b9f8da5c921",
+  "published_at": "2026-10-17T09:07:55.029Z"
 }
