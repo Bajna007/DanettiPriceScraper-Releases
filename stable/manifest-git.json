@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.16",
+  "version": "0.5.17",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "Rendezett modulfejléc; közös DVG/LF cikkszámváltozás-kezelés, igazolt utódcikkár és profit, CSV-vel vagy kézzel lezárható ár- és cikkszámváltozások, megőrzött előzmények és egységes táblázatok.",
+  "changelog": "Cikkszámváltozások árjavaslata az ellenőrzött utódcikk lekért nettó árából, közös EUR/ÁFA/haszon/kerekítés beállításokkal és CSV/PDF támogatással.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.16.zip",
-    "size": 39241087,
-    "sha256": "9e579d6be720d27cda6d74a2add574e0de5fe9155e5013524fe26d6938d21da6"
+    "name": "danetti-price-scraper-0.5.17.zip",
+    "size": 39261324,
+    "sha256": "4f3d3e41bf3dea6681f9256998a257e8317e27f53915b328720078e42c6f8bb1"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/2611ab33b88ef4ce69ef21f242dd102f880e08a3/packages/v0.5.16/danetti-price-scraper-0.5.16.zip",
-  "release_commit": "0b96e7aefcb7d1becb43e964420165a340b7e94f",
-  "artifact_commit": "2611ab33b88ef4ce69ef21f242dd102f880e08a3",
-  "published_at": "2026-10-19T15:48:37.695Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/0d3447b96fa483765db19a942191529ccaf97f70/packages/v0.5.17/danetti-price-scraper-0.5.17.zip",
+  "release_commit": "4aac0fee82471ef2dd006d006cfe4e083529f6b6",
+  "artifact_commit": "0d3447b96fa483765db19a942191529ccaf97f70",
+  "published_at": "2026-10-19T20:22:27.195Z"
 }
