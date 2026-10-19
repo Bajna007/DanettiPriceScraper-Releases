@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.12",
+  "version": "0.5.13",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "DVG Legacy / New shop valaszto, direkt cikkszam-URL, kek darabar es mennyisegi arsavok; Nagyon gyors mod es egyertelmu belepesi profil.",
+  "changelog": "DVG Legacy / New shop valaszto, direkt cikkszam-URL, kek darabar, mennyisegi arsavok, atkodolt es kifutott termekek kezelese; Nagyon gyors mod.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.12.zip",
-    "size": 38917906,
-    "sha256": "61cbcfa00499945b37d5eb8834bb709d74909da8c268cbb638ca3ff33a9c3e2e"
+    "name": "danetti-price-scraper-0.5.13.zip",
+    "size": 38920152,
+    "sha256": "189538d0972fdea513db4a8afa50bcfdded8fefcb8ae6490be7403695dd1c4de"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/e76bfb09cf6e715a5038ef431e59825b082e76a8/packages/v0.5.12/danetti-price-scraper-0.5.12.zip",
-  "release_commit": "0280247c3fb9763f38b2278433c3df6769462a2a",
-  "artifact_commit": "e76bfb09cf6e715a5038ef431e59825b082e76a8",
-  "published_at": "2026-10-19T08:18:21.865Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/f8cf2c460ef33aa82c54b87c69ee47707e8870e4/packages/v0.5.13/danetti-price-scraper-0.5.13.zip",
+  "release_commit": "122d7e714424fe643a93b1d649f9fe188604f518",
+  "artifact_commit": "f8cf2c460ef33aa82c54b87c69ee47707e8870e4",
+  "published_at": "2026-10-19T08:22:44.208Z"
 }
