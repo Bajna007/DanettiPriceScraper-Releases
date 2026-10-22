@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.18",
+  "version": "0.5.19",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "DVG utodcikkszamok automatikus ellenorzese es a parositott katalogus titkositott gepek kozotti atvitele.",
+  "changelog": "Utopia címkék: 200 g, forgalmazói adatok és fehér QR-kód fekete alapon, egységes dátumhivatkozással.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.18.zip",
-    "size": 39275818,
-    "sha256": "b51336994f318105e211101530d4a806278d7dedcdbcb8eb9ec0240f0d62a9bc"
+    "name": "danetti-price-scraper-0.5.19.zip",
+    "size": 39289494,
+    "sha256": "9aef0846d8f2f4dbf3308043ff9f4eee7ded14249709254f40a5590167184a9b"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/47d00f8c04cfc534273e8622da2de69a7838a6ee/packages/v0.5.18/danetti-price-scraper-0.5.18.zip",
-  "release_commit": "891fa3ef8d590b4c5ebffda3acda8bef81d7b0b7",
-  "artifact_commit": "47d00f8c04cfc534273e8622da2de69a7838a6ee",
-  "published_at": "2026-10-20T07:06:05.428Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/600612cf5f9ee53ce4438e74580e3dc8c32bd857/packages/v0.5.19/danetti-price-scraper-0.5.19.zip",
+  "release_commit": "29139212c568e3374f48bbfc811ec9b960bf39ec",
+  "artifact_commit": "600612cf5f9ee53ce4438e74580e3dc8c32bd857",
+  "published_at": "2026-10-22T13:31:55.082Z"
 }
