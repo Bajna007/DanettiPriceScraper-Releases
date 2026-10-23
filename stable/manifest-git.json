@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.21",
+  "version": "0.5.22",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "Utopia címkék: fekete 200 g jelölés jól látható fehér kerettel, pontozott alsó elválasztó és megőrzött egyedi szövegpozíciók.",
+  "changelog": "Az Utopia címkéken az angol ízjegyek vonala a többi sor értékoszlopához igazodik; hosszú szövegnél a jobb margóhoz méretezve rövidül.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.21.zip",
-    "size": 39300956,
-    "sha256": "241cbc7ebee9199140dec119e2aa9b435c5dd82bb747b17229f41a25e9d23afc"
+    "name": "danetti-price-scraper-0.5.22.zip",
+    "size": 39305156,
+    "sha256": "66b0babb2f8012190cf8fdcfdeedf929bb2fd0df111d1b7b2cb21171093a3bcd"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/936b9211d63c320432ad17f974922b40325155e3/packages/v0.5.21/danetti-price-scraper-0.5.21.zip",
-  "release_commit": "b743a75dbce957113f957f4998ef20fc31a07f68",
-  "artifact_commit": "936b9211d63c320432ad17f974922b40325155e3",
-  "published_at": "2026-10-23T08:04:05.580Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/1454708f731dc35b4a62b628fc374d1a67c91d3b/packages/v0.5.22/danetti-price-scraper-0.5.22.zip",
+  "release_commit": "321986f316122af93818cd012db48a9add3c25a2",
+  "artifact_commit": "1454708f731dc35b4a62b628fc374d1a67c91d3b",
+  "published_at": "2026-10-23T08:48:04.483Z"
 }
