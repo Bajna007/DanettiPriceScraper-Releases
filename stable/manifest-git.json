@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.23",
+  "version": "0.5.24",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "DVG robbantott ábrák hiányzó képének javítása: indítási könyvtártól független logó- és képútvonalak.",
+  "changelog": "DVG robbantott ábrák: Legacy / New shop választó, teljes katalógus, méretarányos koordináták és 962 ábrán ellenőrzött képkonvertálás.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.23.zip",
-    "size": 39308825,
-    "sha256": "c5da4c78671f2dc5db27439dad0503b53e4b136d3babf998e20685186dfbb8af"
+    "name": "danetti-price-scraper-0.5.24.zip",
+    "size": 39356658,
+    "sha256": "b129c780fa1c01e3db064b939d3e1a4938c82ae523d6b8aa7db4609302cc9ce7"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/755a5e7f4fde6844234e281882939f178eaabdae/packages/v0.5.23/danetti-price-scraper-0.5.23.zip",
-  "release_commit": "2d62e3469ac0ac7b2f06ccc5edfe651fb1870234",
-  "artifact_commit": "755a5e7f4fde6844234e281882939f178eaabdae",
-  "published_at": "2026-10-27T07:48:24.994Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/64fc60c0b49e87e1c5303a4e70aad5ea46ff034a/packages/v0.5.24/danetti-price-scraper-0.5.24.zip",
+  "release_commit": "f1cc1829cabe51d6de0cf918e0886784896a14d8",
+  "artifact_commit": "64fc60c0b49e87e1c5303a4e70aad5ea46ff034a",
+  "published_at": "2026-10-27T11:05:02.832Z"
 }
