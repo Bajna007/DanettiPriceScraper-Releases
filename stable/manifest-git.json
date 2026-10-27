@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.22",
+  "version": "0.5.23",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "Az Utopia címkéken az angol ízjegyek vonala a többi sor értékoszlopához igazodik; hosszú szövegnél a jobb margóhoz méretezve rövidül.",
+  "changelog": "DVG robbantott ábrák hiányzó képének javítása: indítási könyvtártól független logó- és képútvonalak.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.22.zip",
-    "size": 39305156,
-    "sha256": "66b0babb2f8012190cf8fdcfdeedf929bb2fd0df111d1b7b2cb21171093a3bcd"
+    "name": "danetti-price-scraper-0.5.23.zip",
+    "size": 39308825,
+    "sha256": "c5da4c78671f2dc5db27439dad0503b53e4b136d3babf998e20685186dfbb8af"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/1454708f731dc35b4a62b628fc374d1a67c91d3b/packages/v0.5.22/danetti-price-scraper-0.5.22.zip",
-  "release_commit": "321986f316122af93818cd012db48a9add3c25a2",
-  "artifact_commit": "1454708f731dc35b4a62b628fc374d1a67c91d3b",
-  "published_at": "2026-10-23T08:48:04.483Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/755a5e7f4fde6844234e281882939f178eaabdae/packages/v0.5.23/danetti-price-scraper-0.5.23.zip",
+  "release_commit": "2d62e3469ac0ac7b2f06ccc5edfe651fb1870234",
+  "artifact_commit": "755a5e7f4fde6844234e281882939f178eaabdae",
+  "published_at": "2026-10-27T07:48:24.994Z"
 }
