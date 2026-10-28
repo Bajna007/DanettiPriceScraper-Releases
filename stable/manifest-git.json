@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.24",
+  "version": "0.5.25",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "DVG robbantott ábrák: Legacy / New shop választó, teljes katalógus, méretarányos koordináták és 962 ábrán ellenőrzött képkonvertálás.",
+  "changelog": "Utopia címkék pontozott elválasztóinak javítása: tiszta találkozások, egységes szélső hézagok, meglévő címkék automatikus frissítése.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.24.zip",
-    "size": 39356658,
-    "sha256": "b129c780fa1c01e3db064b939d3e1a4938c82ae523d6b8aa7db4609302cc9ce7"
+    "name": "danetti-price-scraper-0.5.25.zip",
+    "size": 39358129,
+    "sha256": "fc91b14f05f6c40a2c614d70052b840b42e8eae7952fbc0fa33276d5842b281f"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/64fc60c0b49e87e1c5303a4e70aad5ea46ff034a/packages/v0.5.24/danetti-price-scraper-0.5.24.zip",
-  "release_commit": "f1cc1829cabe51d6de0cf918e0886784896a14d8",
-  "artifact_commit": "64fc60c0b49e87e1c5303a4e70aad5ea46ff034a",
-  "published_at": "2026-10-27T11:05:02.832Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/4a10f74c7041939f684f8d230207cdee870bbd97/packages/v0.5.25/danetti-price-scraper-0.5.25.zip",
+  "release_commit": "12ba14b762f95dc9598f60c46efdd52a43e50e72",
+  "artifact_commit": "4a10f74c7041939f684f8d230207cdee870bbd97",
+  "published_at": "2026-10-28T08:37:58.550Z"
 }
