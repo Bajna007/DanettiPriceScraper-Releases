@@ -1,17 +1,17 @@
 {
   "schema_version": "2.0.0",
   "product": "danetti-price-scraper",
-  "version": "0.5.26",
+  "version": "0.5.27",
   "channel": "stable",
   "distribution": "github_git",
-  "changelog": "Egységes Bean On és Utopia címkeszerkesztő, mindig elérhető oldalsávok és a kijelölt szöveg külön formázása a nyomdai exportban is.",
+  "changelog": "A címkevásznon kijelölt szöveg teljes szélességben, felnagyított görgetőnyilak nélkül szerkeszthető. A kézi sortörések megmaradnak.",
   "asset": {
-    "name": "danetti-price-scraper-0.5.26.zip",
-    "size": 39391222,
-    "sha256": "de05b6c22305d4649db6db4bd9e5e79558296181bf3a57072ffe721f9a95c1ef"
+    "name": "danetti-price-scraper-0.5.27.zip",
+    "size": 39391896,
+    "sha256": "39a07c5c19a01e72d996ddc3d18b3ece5a027169bad902eae72e85872a945947"
   },
-  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/f4a65c4cd30658e2176cef07853300e5f6bc5ccb/packages/v0.5.26/danetti-price-scraper-0.5.26.zip",
-  "release_commit": "1d8a4ba224ed9bf164dbd54bdd947b462b68aec9",
-  "artifact_commit": "f4a65c4cd30658e2176cef07853300e5f6bc5ccb",
-  "published_at": "2026-11-20T10:26:24.621Z"
+  "package_url": "https://raw.githubusercontent.com/Bajna007/DanettiPriceScraper-Releases/df6af65702fe16c559c027a4597af5ac5c9be8c7/packages/v0.5.27/danetti-price-scraper-0.5.27.zip",
+  "release_commit": "b3c270a409e586a818f6116db009792af33c94c8",
+  "artifact_commit": "df6af65702fe16c559c027a4597af5ac5c9be8c7",
+  "published_at": "2026-11-20T11:38:03.941Z"
 }
